@@ -1,2 +1,2 @@
-# Grace-Portfolio
-Grace Guo's Portfolio :)
+# Grace Guo
+Portfolio
